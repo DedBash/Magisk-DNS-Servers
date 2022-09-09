@@ -1,0 +1,6 @@
+id=Quad9DNS
+name=Quad9DNS
+version=v1
+versionCode=1
+author=Kiznaiver Systems
+description=Using the new Quad9 DNS system-lessy! As simple as that. No Malware blocking, no DNSSEC validation (for experts only!)
