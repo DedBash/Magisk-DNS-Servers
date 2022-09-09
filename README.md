@@ -12,7 +12,8 @@ Forward all mobile data via their servers. <a href="https://www.quad9.net/">Quad
 
 #### Warning:
 
-Please note that your web provider can purely block all requests if you use customs DNS servers address. I can't do anything for that.
+Please note that your web provider can purely block all requests if you use customs DNS servers address. I can't do anything for that.<br>
+Please note that you can only use one group at a time, e.g. Secured, otherwise the data will be overwritten. 
 
 ### Requirements:
 - An android device (something tells me if you're here it's because you have one..)
