@@ -1,4 +1,5 @@
 # Quad9DNS4Magisk
+<img src="https://github.com/Kiznaiver-Systems/Quad9DNS4Magisk/blob/main/assets/img/logo.png" width="100%">
 
 ### DNS ?? What's this ?
 
