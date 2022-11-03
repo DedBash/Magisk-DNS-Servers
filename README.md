@@ -23,15 +23,16 @@ Please note that you can only use one group at a time, e.g. Secured, otherwise t
 ### DNS Servers:
 | Name | IPv4 | IPv6 | No Blocking | Malware Blocking | Family Friently | Ping* |
 |--|--|--|--|--|--|--|
-| AdGuard | ✅ | ✅ | ✅ | ✅ | ✅ | <1ms |
-| Baidu | ✅ | ✅ | ✅ | ❌ | ❌ | 312ms |
-| Cloudflare | ✅ | ✅ | ✅ | ✅ | ✅ | <1ms |
-| DNS.WATCH | ✅ | ✅ | ✅ | ❌ | ❌ | <1ms |
-| Google | ✅ | ✅ | ✅ | ❌ | ❌ | <1ms |
-| Neustar | ✅ | ✅ | ✅ | ✅ | ✅ | 7ms |
-| OpenDNS | ✅ | ✅ | ✅ | ❌ | ❌ | <1ms |
-| Quad8 | ✅ | ✅ | ✅ | ✅ | ✅ | <1ms |
-| UncensoredDNS | ✅ | ✅ | ✅ | ❌ | ❌ | 14ms |
-| Verisign | ✅ | ✅ | ✅ | ✅ | ✅ | 7ms |
+| <a href="https://adguard-dns.io/">AdGuard</a> | ✅ | ✅ | ✅ | ✅ | ✅ | <1ms |
+| <a href="https://dudns.baidu.com/">Baidu</a> | ✅ | ✅ | ✅ | ❌ | ❌ | 312ms |
+| <a href="https://1.1.1.1/">Cloudflare</a> | ✅ | ✅ | ✅ | ✅ | ✅ | <1ms |
+| <a href="https://dns.watch/">DNS.WATCH</a> | ✅ | ✅ | ✅ | ❌ | ❌ | <1ms |
+| <a href="https://developers.google.com/speed/public-dns">Google</a> | ✅ | ✅ | ✅ | ❌ | ❌ | <1ms |
+| <a href="https://www.publicdns.neustar/">Neustar</a> | ✅ | ✅ | ✅ | ✅ | ✅ | 7ms |
+| <a href="https://www.opendns.com/">OpenDNS</a> | ✅ | ✅ | ✅ | ❌ | ❌ | <1ms |
+| <a href="https://www.quad9.net/">Quad9</a> | ✅ | ✅ | ✅ | ✅ | ✅ | <1ms |
+| <a href="https://blog.uncensoreddns.org/">UncensoredDNS</a> | ✅ | ✅ | ✅ | ❌ | ❌ | 14ms |
+| <a href="https://www.verisign.com/">Verisign</a> | ✅ | ✅ | ✅ | ❌ | ❌ | 7ms |
+| <a href="https://dns.yandex.com/">Yandex</a> | ✅ | ✅ | ✅ | ✅ | ✅ | 40ms |
 
-*The ping times are from a server in Frankfurt am Main, Germany
+*The ping times are from a server in <a href="https://deinserverhost.de/store/aff.php?aff=4815">Frankfurt am Main, Germany</a>
