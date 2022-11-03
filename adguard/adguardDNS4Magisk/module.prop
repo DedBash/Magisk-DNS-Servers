@@ -1,0 +1,6 @@
+id=adguardDNS
+name=adguardDNS
+version=v1.0.1
+versionCode=101
+author=DedBash
+description=Using the new adguard DNS system-lessy! AdGuard DNS will block ads and trackers.

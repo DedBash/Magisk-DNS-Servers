@@ -1,0 +1,6 @@
+id=adguardDNS06
+name=adguardDNS IPv6
+version=v1.0.1
+versionCode=101
+author=DedBash
+description=Using the new adguard DNS system-lessy! AdGuard DNS will not block ads, trackers, or any other DNS requests.

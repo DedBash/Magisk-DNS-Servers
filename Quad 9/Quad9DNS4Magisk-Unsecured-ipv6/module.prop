@@ -1,0 +1,6 @@
+id=Quad9DNSu6
+name=Quad9DNS IPv6
+version=v1.0.1
+versionCode=101
+author=DedBash
+description=Using the new Quad9 DNS system-lessy! As simple as that. No Malware blocking, no DNSSEC validation (for experts only!)
