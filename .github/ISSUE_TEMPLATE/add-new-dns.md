@@ -2,7 +2,7 @@
 name: Add New DNS
 about: An idea for another DNS server
 title: "[Submit DNS]"
-labels: ''
+labels: Submit DNS
 assignees: ''
 
 ---
