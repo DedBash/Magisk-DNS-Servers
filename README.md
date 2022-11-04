@@ -1,4 +1,4 @@
-# Mgisk DNS Servers
+# Magisk DNS Servers
 
 ### DNS ?? What's this ?
 
