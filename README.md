@@ -21,18 +21,19 @@ Please note that you can only use one group at a time, e.g. Secured, otherwise t
 - five minutes of your free-times (and a little piece of your brain (just in case))
 
 ### DNS Servers:
-| Name | IPv4 | IPv6 | No Blocking | Malware Blocking | Family Friently | Ping* |
-|--|--|--|--|--|--|--|
-| <a href="https://adguard-dns.io/">AdGuard</a> | ✅ | ✅ | ✅ | ✅ | ✅ | <1ms |
-| <a href="https://dudns.baidu.com/">Baidu</a> | ✅ | ✅ | ✅ | ❌ | ❌ | 312ms |
-| <a href="https://1.1.1.1/">Cloudflare</a> | ✅ | ✅ | ✅ | ✅ | ✅ | <1ms |
-| <a href="https://dns.watch/">DNS.WATCH</a> | ✅ | ✅ | ✅ | ❌ | ❌ | <1ms |
-| <a href="https://developers.google.com/speed/public-dns">Google</a> | ✅ | ✅ | ✅ | ❌ | ❌ | <1ms |
-| <a href="https://www.publicdns.neustar/">Neustar</a> | ✅ | ✅ | ✅ | ✅ | ✅ | 7ms |
-| <a href="https://www.opendns.com/">OpenDNS</a> | ✅ | ✅ | ✅ | ❌ | ❌ | <1ms |
-| <a href="https://www.quad9.net/">Quad9</a> | ✅ | ✅ | ✅ | ✅ | ✅ | <1ms |
-| <a href="https://blog.uncensoreddns.org/">UncensoredDNS</a> | ✅ | ✅ | ✅ | ❌ | ❌ | 14ms |
-| <a href="https://www.verisign.com/">Verisign</a> | ✅ | ✅ | ✅ | ❌ | ❌ | 7ms |
-| <a href="https://dns.yandex.com/">Yandex</a> | ✅ | ✅ | ✅ | ✅ | ✅ | 40ms |
+| Name | IPv4 | IPv6 | No Blocking | Malware Blocking | Family Friently | Ping* | Downlaod |
+|--|--|--|--|--|--|--|--|
+| <a href="https://adguard-dns.io/">AdGuard</a> | ✅ | ✅ | ✅ | ✅ | ✅ | <1ms | <a href="https://github.com/DedBash/Magisk-DNS-Servers/releases/tag/Upload_AdGuard_v101">v1.0.1</a> |
+| <a href="https://dudns.baidu.com/">Baidu</a> | ✅ | ✅ | ✅ | ❌ | ❌ | 312ms | <a href="https://github.com/DedBash/Magisk-DNS-Servers/releases/tag/Uplaod_Baidu_v101">v1.0.1</a> |
+| <a href="https://1.1.1.1/">Cloudflare</a> | ✅ | ✅ | ✅ | ✅ | ✅ | <1ms | <a href="https://github.com/DedBash/Magisk-DNS-Servers/releases/tag/Upload_Cloudflare_v101">v1.0.1</a> |
+| <a href="https://dns.watch/">DNS.WATCH</a> | ✅ | ✅ | ✅ | ❌ | ❌ | <1ms | <a href="https://github.com/DedBash/Magisk-DNS-Servers/releases/tag/Uplaod_DNSWATCH_v101">v1.0.1</a> |
+| <a href="https://developers.google.com/speed/public-dns">Google</a> | ✅ | ✅ | ✅ | ❌ | ❌ | <1ms | <a href="https://github.com/DedBash/Magisk-DNS-Servers/releases/tag/Upload_Google_v101">v1.0.1</a> |
+| <a href="https://www.publicdns.neustar/">Neustar</a> | ✅ | ✅ | ✅ | ✅ | ✅ | 7ms | <a href="https://github.com/DedBash/Magisk-DNS-Servers/releases/tag/Upload_Neustar_v101">v1.0.1</a> |
+| <a href="https://www.opendns.com/">OpenDNS</a> | ✅ | ✅ | ✅ | ❌ | ❌ | <1ms | <a href="https://github.com/DedBash/Magisk-DNS-Servers/releases/tag/Uplaod_OpenDNS_V101">v1.0.1</a> |
+| <a href="https://www.quad9.net/">Quad9</a> | ✅ | ✅ | ✅ | ✅ | ✅ | <1ms | <a href="https://github.com/DedBash/Magisk-DNS-Servers/releases/tag/Uplaod_Quad9_V101">v1.0.1</a> |
+| <a href="https://blog.uncensoreddns.org/">UncensoredDNS</a> | ✅ | ✅ | ✅ | ❌ | ❌ | 14ms | <a href="https://github.com/DedBash/Magisk-DNS-Servers/releases/tag/Upload_UncensoredDNS_v101">v1.0.1</a> |
+| <a href="https://www.verisign.com/">Verisign</a> | ✅ | ✅ | ✅ | ❌ | ❌ | 7ms | <a href="https://github.com/DedBash/Magisk-DNS-Servers/releases/tag/Upload_Verisign_v101">v1.0.1</a> |
+| <a href="https://dns.yandex.com/">Yandex</a> | ✅ | ✅ | ✅ | ✅ | ✅ | 40ms | <a href="https://github.com/DedBash/Magisk-DNS-Servers/releases/tag/Upload_Yandex_v101">v1.0.1</a> |
 
-*The ping times are from a server in <a href="https://deinserverhost.de/store/aff.php?aff=4815">Frankfurt am Main, Germany</a>
+*The ping times are from a server in <a href="https://deinserverhost.de/store/aff.php?aff=4815">Frankfurt am Main, Germany</a><br>
+Check if a DNS Server is offline https://uptime.dedbash.xyz/status/dns
