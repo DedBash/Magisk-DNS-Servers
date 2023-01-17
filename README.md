@@ -20,6 +20,14 @@ Please note that you can only use one group at a time, e.g. Secured, otherwise t
 - Magisk installed (v17+ at least)
 - five minutes of your free-times (and a little piece of your brain (just in case))
 
+### Check if it worked:
+Termux (root):<br>
+First execute `su` to be logged in as root.<br>
+After that type `getprop | grep dns`. now you should see the new DNS servers
+
+Web (Inaccurate):<br>
+Go to https://www.dnsleaktest.com/ and run the standard test. now you should see something about the dns you have as "Hostname" or "ISP
+
 ### DNS Servers:
 | Name | IPv4 | IPv6 | No Blocking | Malware Blocking | Family Friently | Ping* | Downlaod |
 |--|--|--|--|--|--|--|--|
