@@ -1,7 +1,5 @@
 # Magisk DNS Servers
 
-## ERROR
-The IPv6 modules are currently not working, but I am actively working on a fix.
 ### DNS ?? What's this ?
 
 To make it short: a DNS server listen and give you the corresponding IP address of your website request, and its domain name (forum.xda-developers.com for example).
