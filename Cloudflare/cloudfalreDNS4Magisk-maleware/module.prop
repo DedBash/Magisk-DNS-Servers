@@ -1,6 +1,6 @@
 id=cloudfareDNSM
-name=Cloudflare DNS 
-version=v1.0.1
-versionCode=101
+name=Cloudflare DNS Malware
+version=v1.0.2
+versionCode=102
 author=DedBash
 description=Using the new Cloudflare DNS system-lessy! Malware Blocking Only

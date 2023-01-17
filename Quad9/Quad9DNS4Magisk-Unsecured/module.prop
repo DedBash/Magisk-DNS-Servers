@@ -1,6 +1,6 @@
 id=Quad9DNSu
-name=Quad9DNS
-version=v1.0.1
-versionCode=101
+name=Quad9DNS Unsecure
+version=v1.0.2
+versionCode=102
 author=DedBash
 description=Using the new Quad9 DNS system-lessy! As simple as that. No Malware blocking, no DNSSEC validation (for experts only!)

@@ -1,6 +1,6 @@
 id=Quad9DNS
 name=Quad9DNS
-version=v1.0.1
-versionCode=101
+version=v1.0.2
+versionCode=102
 author=DedBash
 description=Using the new Quad9 DNS system-lessy! As simple as that. Malware Blocking, DNSSEC Validation (this is the most typical configuration)

@@ -1,6 +1,6 @@
 id=watchDNS
 name=DNS.WATCH
-version=v1.0.1
-versionCode=101
+version=v1.0.2
+versionCode=102
 author=DedBash
 description=Using the new DNS.WATCH system-lessy! 
