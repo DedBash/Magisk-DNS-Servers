@@ -47,4 +47,4 @@ Please keep in mind that most apps unfortunately do not display the correct valu
 | <a href="https://dns.yandex.com/">Yandex</a> | ✅ | ✅ | ✅ | ✅ | ✅ | 40ms | 
 
 *The ping times are from a server in <a href="https://deinserverhost.de/store/aff.php?aff=4815">Frankfurt am Main, Germany</a><br>
-Check if a DNS Server is offline https://uptime.dedbash.xyz/status/dns
+Check if a DNS Server is offline https://uptime.dedbash.xyz/status/dns (OFFLINE)
