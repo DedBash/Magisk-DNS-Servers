@@ -40,17 +40,19 @@ If you are missing a DNS server feel free to suggest it via a <a href="https://g
 ### DNS Servers:
 | Name | IPv4 | IPv6 | No Blocking | Malware Blocking | Family Friently | Ping* | 
 |--|--|--|--|--|--|--|
-| <a href="https://adguard-dns.io/">AdGuard</a> | ✅ | ✅ | ✅ | ✅ | ✅ | <1ms | 
-| <a href="https://dudns.baidu.com/">Baidu</a> | ✅ | ✅ | ✅ | ❌ | ❌ | 312ms | 
-| <a href="https://1.1.1.1/">Cloudflare</a> | ✅ | ✅ | ✅ | ✅ | ✅ | <1ms |
-| <a href="https://dns.watch/">DNS.WATCH</a> | ✅ | ✅ | ✅ | ❌ | ❌ | <1ms |
-| <a href="https://developers.google.com/speed/public-dns">Google</a> | ✅ | ✅ | ✅ | ❌ | ❌ | <1ms | 
-| <a href="https://www.publicdns.neustar/">Neustar</a> | ✅ | ✅ | ✅ | ✅ | ✅ | 7ms |
-| <a href="https://www.opendns.com/">OpenDNS</a> | ✅ | ✅ | ✅ | ❌ | ❌ | <1ms | 
-| <a href="https://www.quad9.net/">Quad9</a> | ✅ | ✅ | ✅ | ✅ | ✅ | <1ms |
-| <a href="https://blog.uncensoreddns.org/">UncensoredDNS</a> | ✅ | ✅ | ✅ | ❌ | ❌ | 14ms | 
-| <a href="https://www.verisign.com/">Verisign</a> | ✅ | ✅ | ✅ | ❌ | ❌ | 7ms | 
-| <a href="https://dns.yandex.com/">Yandex</a> | ✅ | ✅ | ✅ | ✅ | ✅ | 40ms | 
+| <a href="https://adguard-dns.io/">AdGuard</a> | ✅ | ✅ | <a href="https://github.com/DedBash/Magisk-DNS-Servers/releases/download/Upload_All_v102/AdGuardDNS4Magisk.zip">✅ 🔗</a> | <a href="https://github.com/DedBash/Magisk-DNS-Servers/releases/download/Upload_All_v102/AdGuardDNS4Magisk-NF.zip">✅ 🔗</a> | <a href="https://github.com/DedBash/Magisk-DNS-Servers/releases/download/Upload_All_v102/AdGuardDNS4Magisk-Family.zip">✅ 🔗</a> | <1ms | 
+| <a href="https://dudns.baidu.com/">Baidu</a> | ✅ | ✅ | <a href="https://github.com/DedBash/Magisk-DNS-Servers/releases/download/Upload_All_v102/BaiduDNS4Magisk.zip">✅ 🔗</a> | ❌ | ❌ | 312ms | 
+| <a href="https://1.1.1.1/">Cloudflare</a> | ✅ | ✅ | <a href="https://github.com/DedBash/Magisk-DNS-Servers/releases/download/Upload_All_v102/CloudflareDNS4Magisk.zip">✅ 🔗</a> | <a href="https://github.com/DedBash/Magisk-DNS-Servers/releases/download/Upload_All_v102/CloudflareDNS4Magisk-Malware.zip">✅ 🔗</a> | <a href="https://github.com/DedBash/Magisk-DNS-Servers/releases/download/Upload_All_v102/CloudflareDNS4Magisk-Family.zip">✅ 🔗</a> | <1ms |
+| <a href="https://dns.watch/">DNS.WATCH</a> | ✅ | ✅ | <a href="https://github.com/DedBash/Magisk-DNS-Servers/releases/download/Upload_All_v102/DNSWATCH4Magisk.zip">✅ 🔗</a> | ❌ | ❌ | <1ms |
+| <a href="https://developers.google.com/speed/public-dns">Google</a> | ✅ | ✅ | <a href="https://github.com/DedBash/Magisk-DNS-Servers/releases/download/Upload_All_v102/GoogleDNS4Magisk.zip">✅ 🔗</a> | ❌ | ❌ | <1ms | 
+| <a href="https://www.publicdns.neustar/">Neustar</a> | ✅ | ✅ | <a href="https://github.com/DedBash/Magisk-DNS-Servers/releases/download/Upload_All_v102/NeustarDNS4Magisk.zip">✅ 🔗</a> | <a href="https://github.com/DedBash/Magisk-DNS-Servers/releases/download/Upload_All_v102/NeustarDNS4Magisk-Malware.zip">✅ 🔗</a> | <a href="https://github.com/DedBash/Magisk-DNS-Servers/releases/download/Upload_All_v102/NeustarDNS4Magisk-Family.zip">✅ 🔗</a> | 7ms |
+| <a href="https://www.opendns.com/">OpenDNS</a> | ✅ | ✅ | <a href="https://github.com/DedBash/Magisk-DNS-Servers/releases/download/Upload_All_v102/OpenDNS4Magisk.zip">✅ 🔗</a> | ❌ | ❌ | <1ms | 
+| <a href="https://www.quad9.net/">Quad9</a> | ✅ | ✅ | <a href="https://github.com/DedBash/Magisk-DNS-Servers/releases/download/Upload_All_v102/Quad9DNS4Magisk-Unsecured.zip">✅ 🔗</a> | <a href="https://github.com/DedBash/Magisk-DNS-Servers/releases/download/Upload_All_v102/Quad9DNS4Magisk.zip">✅ 🔗</a> | <a href="https://github.com/DedBash/Magisk-DNS-Servers/releases/download/Upload_All_v102/Quad9DNS4Magisk_Secured.zip">✅ 🔗</a> | <1ms |
+| <a href="https://blog.uncensoreddns.org/">UncensoredDNS</a> | ✅ | ✅ | <a href="https://github.com/DedBash/Magisk-DNS-Servers/releases/download/Upload_All_v102/UncensoredDNS4Magisk.zip">✅ 🔗</a> | ❌ | ❌ | 14ms | 
+| <a href="https://www.verisign.com/">Verisign</a> | ✅ | ✅ | <a href="https://github.com/DedBash/Magisk-DNS-Servers/releases/download/Upload_All_v102/VerisignDNS4Magisk.zip">✅ 🔗</a> | ❌ | ❌ | 7ms | 
+| <a href="https://dns.yandex.com/">Yandex</a> | ✅ | ✅ | <a href="https://github.com/DedBash/Magisk-DNS-Servers/releases/download/Upload_All_v102/YandexDNS4Magisk.zip">✅ 🔗</a> | <a href="https://github.com/DedBash/Magisk-DNS-Servers/releases/download/Upload_All_v102/YandexDNS4Magisk-Malware.zip">✅ 🔗</a> | <a href="https://github.com/DedBash/Magisk-DNS-Servers/releases/download/Upload_All_v102/YandexDNS4Magisk-Family.zip">✅ 🔗</a> | 40ms | 
+
+✅ = available | ❌ = unavailable | 🔗 = direct download
 
 *The ping times are from a server in <a href="https://deinserverhost.de/store/aff.php?aff=4815">Frankfurt am Main, Germany</a><br>
 Check if a DNS Server is offline https://uptime.dedbash.xyz/status/dns (OFFLINE)
