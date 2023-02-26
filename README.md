@@ -20,6 +20,7 @@ Please note that you can only use one group at a time, e.g. Secured, otherwise t
 - Magisk installed (v17+ at least)
 - five minutes of your free-times (and a little piece of your brain (just in case))
 
+
 ### Check if it worked:
 Termux (root):<br>
 First execute `su` to be logged in as root.<br>
@@ -30,6 +31,11 @@ Go to https://www.dnsleaktest.com/ and run the standard test. now you should see
 
 Info:<br>
 Please keep in mind that most apps unfortunately do not display the correct values. <a href="https://github.com/DedBash/Magisk-DNS-Servers/issues/1#issuecomment-1387693408">Bug Report</a>
+
+
+### New DNS
+If you are missing a DNS server feel free to suggest it via a <a href="https://github.com/DedBash/Magisk-DNS-Servers/issues/new/choose">report</a>
+
 
 ### DNS Servers:
 | Name | IPv4 | IPv6 | No Blocking | Malware Blocking | Family Friently | Ping* | 
@@ -48,3 +54,6 @@ Please keep in mind that most apps unfortunately do not display the correct valu
 
 *The ping times are from a server in <a href="https://deinserverhost.de/store/aff.php?aff=4815">Frankfurt am Main, Germany</a><br>
 Check if a DNS Server is offline https://uptime.dedbash.xyz/status/dns (OFFLINE)
+
+### Support me
+If you want to support me so that I can do something like this more, you are welcome to donate on https://www.buymeacoffee.com/DedBash.
