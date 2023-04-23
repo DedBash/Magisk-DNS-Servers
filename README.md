@@ -38,7 +38,7 @@ If you are missing a DNS server feel free to suggest it via a <a href="https://g
 
 
 ### DNS Servers:
-| Name | IPv4 | IPv6 | No Blocking | Malware Blocking | Family Friently | Ping* | 
+| Name | IPv4 | IPv6 | No Blocking* | Malware Blocking | Family Friently | Ping** | 
 |--|--|--|--|--|--|--|
 | <a href="https://adguard-dns.io/">AdGuard</a> | ✅ | ✅ | <a href="https://github.com/DedBash/Magisk-DNS-Servers/releases/download/Upload_All_v102/AdGuardDNS4Magisk.zip">✅ 🔗</a> | <a href="https://github.com/DedBash/Magisk-DNS-Servers/releases/download/Upload_All_v102/AdGuardDNS4Magisk-NF.zip">✅ 🔗</a> | <a href="https://github.com/DedBash/Magisk-DNS-Servers/releases/download/Upload_All_v102/AdGuardDNS4Magisk-Family.zip">✅ 🔗</a> | <1ms | 
 | <a href="https://dudns.baidu.com/">Baidu</a> | ✅ | ✅ | <a href="https://github.com/DedBash/Magisk-DNS-Servers/releases/download/Upload_All_v102/BaiduDNS4Magisk.zip">✅ 🔗</a> | ❌ | ❌ | 312ms | 
@@ -54,7 +54,11 @@ If you are missing a DNS server feel free to suggest it via a <a href="https://g
 
 ✅ = available | ❌ = unavailable | 🔗 = direct download
 
-*The ping times are from a server in <a href="https://deinserverhost.de/store/aff.php?aff=4815">Frankfurt am Main, Germany</a><br>
+List of DNS server IP addresses I used <a href="https://github.com/DedBash/Magisk-DNS-Servers/blob/main/Nameserver.list.md">here</a>
+
+*No malware or advertisements are being blocked. However, certain pages, such as those containing explicit content, may be blocked due to Google SafeSearch or similar filtering technology.
+
+**The ping times are from a server in <a href="https://deinserverhost.de/store/aff.php?aff=4815">Frankfurt am Main, Germany</a><br>
 Check if a DNS Server is offline https://uptime.dedbash.xyz/status/dns (OFFLINE)
 
 ### Support me
