@@ -58,8 +58,5 @@ List of DNS server IP addresses I used <a href="https://github.com/DedBash/Magis
 
 *No malware or advertisements are being blocked. However, certain pages, such as those containing explicit content, may be blocked due to Google SafeSearch or similar filtering technology.
 
-**The ping times are from a server in <a href="https://deinserverhost.de/store/aff.php?aff=4815">Frankfurt am Main, Germany</a><br>
-Check if a DNS Server is offline https://up.dedbash.de/status/dns 
-
 ### Support me
 If you want to support me so that I can do something like this more, you are welcome to donate on https://www.buymeacoffee.com/DedBash.
