@@ -6,6 +6,7 @@
 | <a href="https://dns.watch/">DNS.WATCH</a> | 84.200.69.80 <br /> 84.200.70.40 <br /> 2001:1608:10:25::1c04:b12f <br /> 2001:1608:10:25::9249:d69b |
 | <a href="https://developers.google.com/speed/public-dns">Google</a> | 8.8.8.8 <br /> 8.8.4.4 <br /> 2001:4860:4860::8888 <br /> 2001:4860:4860::8844 |
 | <a href="https://www.publicdns.neustar/">Neustar</a> | 64.6.64.6 <br /> 64.6.65.6 <br /> 2620:74:1b::1:1 <br /> 2620:74:1c::2:2 | 156.154.70.2 <br /> 156.154.71.2 <br /> 2610:a1:1018::2 <br /> 2610:a1:1019::2 | 156.154.70.3 <br /> 156.154.71.3 <br /> 2610:a1:1018::3 <br /> 2610:a1:1019::3 |
+| <a href="https://nextdns.io">NextDNS</a> | 45.90.28.206 <br /> 45.90.30.206 <br /> 2a07:a8c0::33:f658 <br /> 2a07:a8c1::33:f658 |
 | <a href="https://www.opendns.com/">OpenDNS</a> | 208.67.222.222 <br /> 208.67.220.220 <br /> 2620:119:35::35 <br /> 2620:119:53::53 |
 | <a href="https://www.quad9.net/">Quad9</a> | 9.9.9.10 <br /> 149.112.112.10 <br /> 2620:fe::10 <br /> 2620:fe::fe:10 |9.9.9.9 <br /> 149.112.112.112 <br /> 2620:fe::fe <br /> 2620:fe::9 | 9.9.9.11 <br /> 149.112.112.11 <br /> 2620:fe::11 <br /> 2620:fe::fe:11 |
 | <a href="https://blog.uncensoreddns.org/">UncensoredDNS</a> | 91.239.100.100 <br /> 89.233.43.71 <br /> 2001:67c:28a4:: <br /> 2a01:3a0:53:53:: |
