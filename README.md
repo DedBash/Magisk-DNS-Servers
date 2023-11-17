@@ -1,4 +1,13 @@
+<p align="center">
+<img src="banner.png" width="100%">
+</p>
+
 # Magisk DNS Servers
+
+![Made for Magisk](https://img.shields.io/badge/Made%20for-Magisk-teal?style=for-the-badge&logo=magisk)
+![GitHub Downloads](https://img.shields.io/github/downloads/DedBash/Magisk-DNS-Servers/total?color=green&style=for-the-badge&logo=github)
+![GitHub Issues](https://img.shields.io/github/issues/DedBash/Magisk-DNS-Servers?style=for-the-badge&logo=github)
+![GitHub License](https://img.shields.io/github/license/DedBash/Magisk-DNS-Servers?style=for-the-badge&logo=github)
 
 ### DNS ?? What's this ?
 
