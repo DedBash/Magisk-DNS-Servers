@@ -68,7 +68,7 @@ List of DNS server IP addresses I used <a href="https://github.com/DedBash/Magis
 
 *No malware or advertisements are being blocked. However, certain pages, such as those containing explicit content, may be blocked due to Google SafeSearch or similar filtering technology.
 
-**The German server runs at 24Fire and the British server runs at MyLIR and the information is the average of the number of requests over 24 hours.
+**The <a href="https://uptime.de.magisk-dns-servers.xyz/status/dns">German</a> server runs at 24Fire and the <a href="https://uptime.uk.magisk-dns-servers.xyz/status/dns">British</a> server runs at MyLIR and the information is the average of the number of requests over 24 hours.
 
 ### Support me
 If you want to support me so that I can do something like this more, you are welcome to donate on https://www.buymeacoffee.com/DedBash.
