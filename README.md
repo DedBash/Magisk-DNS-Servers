@@ -62,6 +62,7 @@ If you are missing a DNS server feel free to suggest it via a <a href="https://g
 | <a href="https://blog.uncensoreddns.org/">UncensoredDNS</a> | ✅ | ✅ | <a href="https://github.com/DedBash/Magisk-DNS-Servers/releases/download/Upload_All_v102/UncensoredDNS4Magisk.zip">✅ 🔗</a> | ❌ | ❌ | 
 | <a href="https://www.verisign.com/">Verisign</a> | ✅ | ✅ | <a href="https://github.com/DedBash/Magisk-DNS-Servers/releases/download/Upload_All_v102/VerisignDNS4Magisk.zip">✅ 🔗</a> | ❌ | ❌ | 
 | <a href="https://dns.yandex.com/">Yandex</a> | ✅ | ✅ | <a href="https://github.com/DedBash/Magisk-DNS-Servers/releases/download/Upload_All_v102/YandexDNS4Magisk.zip">✅ 🔗</a> | <a href="https://github.com/DedBash/Magisk-DNS-Servers/releases/download/Upload_All_v102/YandexDNS4Magisk-Malware.zip">✅ 🔗</a> | <a href="https://github.com/DedBash/Magisk-DNS-Servers/releases/download/Upload_All_v102/YandexDNS4Magisk-Family.zip">✅ 🔗</a> |
+
 ✅ = available | ❌ = unavailable | 🔗 = direct download
 
 List of DNS server IP addresses I used <a href="https://github.com/DedBash/Magisk-DNS-Servers/blob/main/Nameserver.list.md">here</a>
