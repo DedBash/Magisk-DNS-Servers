@@ -68,7 +68,7 @@ If you are missing a DNS server feel free to suggest it via a <a href="https://g
 List of DNS server IP addresses I used <a href="https://github.com/DedBash/Magisk-DNS-Servers/blob/main/Nameserver.list.md">here</a>
 
 *No malware or advertisements are being blocked. However, certain pages, such as those containing explicit content, may be blocked due to Google SafeSearch or similar filtering technology.</br>
-**The time is the response for a query on 'google.com' from a German server. For all dns servers: https://up.magisk-dns-servers.xyz/status/all-dns
+**The time is the response for a query on 'google.com' from a German server. For all dns servers: https://github.com/DedBash/Magisk-DNS-Servers/edit/main/Nameserver.list.md
 
 ### Support me
 If you want to support me so that I can do something like this more, you are welcome to donate on https://www.buymeacoffee.com/DedBash.
