@@ -15,4 +15,5 @@
 |            <a href="https://dns.yandex.com/">Yandex</a>             |         77.88.8.8 <br /> 77.88.8.1 <br /> 2a02:6b8::feed:0ff <br /> 2a02:6b8:0:1::feed:0ff <br /> <img src="https://up.magisk-dns-servers.xyz/api/badge/12/response?labelPrefix=Last+&color=%23000&labelColor=%23fff&style=for-the-badge">          | 77.88.8.88 <br /> 77.88.8.2 <br /> 2a02:6b8::feed:bad  <br /> 2a02:6b8:0:1::feed:bad <br /> <img src="https://up.magisk-dns-servers.xyz/api/badge/23/response?labelPrefix=Last+&color=%23000&labelColor=%23fff&style=for-the-badge"> | 77.88.8.7 <br /> 77.88.8.3 <br /> 2a02:6b8::feed:a11 <br /> 2a02:6b8:0:1::feed:a11 <br /> <img src="https://up.magisk-dns-servers.xyz/api/badge/22/response?labelPrefix=Last+&color=%23000&labelColor=%23fff&style=for-the-badge"> |
 
 *No malware or advertisements are being blocked. However, certain pages, such as those containing explicit content, may
-be blocked due to Google SafeSearch or similar filtering technology.
+be blocked due to Google SafeSearch or similar filtering technology.  <br />
+** The Last response time is the response for a dns query on 'google.com' from a German server
