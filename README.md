@@ -47,7 +47,7 @@ If you are missing a DNS server feel free to suggest it via a <a href="https://g
 
 
 ### DNS Servers:
-| Name | IPv4 | IPv6 | No Blocking* | Malware Blocking | Family Friently | Response time**                                                                                                                          |
+| Name | IPv4 | IPv6 | No Blocking* | Malware Blocking | Family Friendly | Response time**                                                                                                                          |
 |--|--|--|--|--|--|------------------------------------------------------------------------------------------------------------------------------------------|
 | <a href="https://adguard-dns.io/">AdGuard</a> | ✅ | ✅ | <a href="https://github.com/DedBash/Magisk-DNS-Servers/releases/download/Upload_All_v102/AdGuardDNS4Magisk.zip">✅ 🔗</a> | <a href="https://github.com/DedBash/Magisk-DNS-Servers/releases/download/Upload_All_v102/AdGuardDNS4Magisk-NF.zip">✅ 🔗</a> | <a href="https://github.com/DedBash/Magisk-DNS-Servers/releases/download/Upload_All_v102/AdGuardDNS4Magisk-Family.zip">✅ 🔗</a> | <img src="https://up.magisk-dns-servers.xyz/api/badge/1/response?labelPrefix=Last+&color=%23000&labelColor=%23fff&style=for-the-badge">  |
 | <a href="https://alidns.com/">AliDNS</a> | ✅ | ✅ | <a href="https://github.com/DedBash/Magisk-DNS-Servers/releases/download/Upload_All_v102/AliDNS4Magisk.zip">✅ 🔗</a> | ❌ | ❌ | <img src="https://up.magisk-dns-servers.xyz/api/badge/2/response?labelPrefix=Last+&color=%23000&labelColor=%23fff&style=for-the-badge">  |
